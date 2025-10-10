@@ -1,5 +1,6 @@
 {
     "name": "RajnishOne",
+    "sourceURL": "https://raw.githubusercontent.com/RajnishOne/qbitconnect-releases/main/altstore-pal.json",
     "subtitle": "A source for qBitConnect, a modern qBittorrent remote client.",
     "description": "Welcome to my source! Here you'll find qBitConnect, a Flutter-based remote client for managing qBittorrent downloads with a modern UI and real-time updates.",
     "iconURL": "https://raw.githubusercontent.com/RajnishOne/qbitconnect/master/ios/Runner/Assets.xcassets/AppIcon.appiconset/AppIcon-40%403x.png",
