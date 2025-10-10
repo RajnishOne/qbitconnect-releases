@@ -31,11 +31,11 @@
             ],
             "versions": [
                 {
-                    "version": "1.4.5",
+                    "version": "1.4.6",
                     "date": "2025-10-10",
-                    "buildVersion": "18",
+                    "buildVersion": "19",
                     "localizedDescription": "Latest improvements:\n\n• Enhanced real-time monitoring and updates\n• Improved connection stability and error handling\n• Better performance and memory optimization\n• UI/UX refinements and bug fixes\n• Updated dependencies for better compatibility",
-                    "downloadURL": "https://github.com/RajnishOne/qbitconnect/releases/download/v1.4.5/qBitConnect.ipa",
+                    "downloadURL": "https://github.com/RajnishOne/qbitconnect/releases/download/v1.4.6/qBitConnect.ipa",
                     "size": 10923335,
                     "minOSVersion": "12.0"
                 }
