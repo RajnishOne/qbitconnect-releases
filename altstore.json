@@ -36,7 +36,7 @@
                     "date": "2025-10-11",
                     "buildVersion": "21",
                     "localizedDescription": "Latest improvements:\n\n• Minor Bug fixes and improvement\n• Graphs and stats in torrent details page\n• Multiple server support",
-                    "downloadURL": "https://github.com/RajnishOne/qbitconnect/releases/download/v1.4.8/qBitConnect-1.4.8.ipa",
+                    "downloadURL": "https://github.com/RajnishOne/qbitconnect/releases/download/1.4.8/qBitConnect-1.4.8.ipa",
                     "size": 11099845,
                     "minOSVersion": "12.0"
                 },
