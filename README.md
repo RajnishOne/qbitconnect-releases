@@ -77,32 +77,6 @@ https://raw.githubusercontent.com/RajnishOne/qbitconnect-releases/main/altstore-
 - A qBittorrent server (desktop or remote)
 - AltStore or AltStore PAL installed on your device
 
-## Repository Structure
-
-```
-qbitconnect-releases/
-├── altstore.json          # AltStore Classic source configuration
-├── altstore-pal.json      # AltStore PAL source configuration
-├── buttons/               # Installation button images
-│   ├── altstore.png
-│   ├── altstore-pal.png
-│   └── github.png
-├── screenshots/           # App screenshots for the store
-│   ├── 1.png
-│   ├── 2.png
-│   └── ...
-└── README.md             # This file
-```
-
-## Latest Release
-
-**Version 1.4.8** (Build 21) - October 11, 2025
-
-### What's New:
-- Minor bug fixes and improvements
-- Graphs and stats in torrent details page
-- Multiple server support
-
 ## Links
 
 - **Main Repository (Source Code):** [github.com/RajnishOne/qbitconnect](https://github.com/RajnishOne/qbitconnect)
