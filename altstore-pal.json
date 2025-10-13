@@ -32,6 +32,15 @@
             ],
             "versions": [
                 {
+                    "version": "1.5.1",
+                    "date": "2025-10-13",
+                    "buildVersion": "24",
+                    "localizedDescription": "This release includes:\n\n• Minor Bug fixes and improvement\n• Set locaton for saving or updating torrents from recent locations",
+                    "downloadURL": "https://github.com/RajnishOne/qbitconnect/releases/download/v1.5.1/qBitConnect.ipa",
+                    "size": 11118283,
+                    "minOSVersion": "12.0"
+                },
+                {
                     "version": "1.5.0",
                     "date": "2025-10-13",
                     "buildVersion": "23",
