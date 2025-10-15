@@ -32,6 +32,15 @@
             ],
             "versions": [
                 {
+                    "version": "1.6.3",
+                    "date": "2025-10-14",
+                    "buildVersion": "25",
+                    "localizedDescription": "This release includes:\n\n• Analytics screen updates\n• Torrent details page UI update\n• Peers for each torrent in torrent details page\n• App level language localization",
+                    "downloadURL": "https://github.com/RajnishOne/qbitconnect/releases/download/v1.6.3/qBitConnect.ipa",
+                    "size": 11429647,
+                    "minOSVersion": "12.0"
+                },
+                {
                     "version": "1.5.1",
                     "date": "2025-10-13",
                     "buildVersion": "24",
