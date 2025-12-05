@@ -39,7 +39,7 @@
                     "downloadURL": "https://github.com/RajnishOne/qbitconnect-releases/raw/main/adps/1.6.9",
                     "size": 27468952,
                     "minOSVersion": "12.0"
-                },
+                }
             ],
             "appPermissions": {
                 "entitlements": [],
