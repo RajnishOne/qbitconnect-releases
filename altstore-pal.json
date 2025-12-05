@@ -40,69 +40,6 @@
                     "size": 27468952,
                     "minOSVersion": "12.0"
                 },
-                {
-                    "version": "1.6.3",
-                    "date": "2025-10-14",
-                    "buildVersion": "25",
-                    "localizedDescription": "This release includes:\n\n• Analytics screen updates\n• Torrent details page UI update\n• Peers for each torrent in torrent details page\n• App level language localization",
-                    "downloadURL": "https://github.com/RajnishOne/qbitconnect/releases/download/v1.6.3/qBitConnect.ipa",
-                    "size": 11429647,
-                    "minOSVersion": "12.0"
-                },
-                {
-                    "version": "1.5.1",
-                    "date": "2025-10-13",
-                    "buildVersion": "24",
-                    "localizedDescription": "This release includes:\n\n• Minor Bug fixes and improvement\n• Set locaton for saving or updating torrents from recent locations",
-                    "downloadURL": "https://github.com/RajnishOne/qbitconnect/releases/download/v1.5.1/qBitConnect.ipa",
-                    "size": 11118283,
-                    "minOSVersion": "12.0"
-                },
-                {
-                    "version": "1.5.0",
-                    "date": "2025-10-13",
-                    "buildVersion": "23",
-                    "localizedDescription": "This release includes:\n\n• Minor Bug fixes and improvement\n• Graphs and stats in torrent details page\n• Multiple server support",
-                    "downloadURL": "https://github.com/RajnishOne/qbitconnect/releases/download/v1.5.0/qBitConnect.ipa",
-                    "size": 11100906,
-                    "minOSVersion": "12.0"
-                },
-                {
-                    "version": "1.4.9",
-                    "date": "2025-10-12",
-                    "buildVersion": "22",
-                    "localizedDescription": "This release includes:\n\n• Minor Bug fixes and improvement\n• Graphs and stats in torrent details page\n• Multiple server support",
-                    "downloadURL": "https://github.com/RajnishOne/qbitconnect/releases/download/v1.4.9/qBitConnect.ipa",
-                    "size": 11100579,
-                    "minOSVersion": "12.0"
-                },
-                {
-                    "version": "1.4.8",
-                    "date": "2025-10-11",
-                    "buildVersion": "21",
-                    "localizedDescription": "Latest improvements:\n\n• Minor Bug fixes and improvement\n• Graphs and stats in torrent details page\n• Multiple server support",
-                    "downloadURL": "https://github.com/RajnishOne/qbitconnect/releases/download/1.4.8/qBitConnect-1.4.8.ipa",
-                    "size": 11099845,
-                    "minOSVersion": "12.0"
-                },
-                {
-                    "version": "1.4.7",
-                    "date": "2025-10-11",
-                    "buildVersion": "20",
-                    "localizedDescription": "Latest improvements:\n\n• Minor Bug fixes and improvement\n• Graphs and stats in torrent details page",
-                    "downloadURL": "https://github.com/RajnishOne/qbitconnect/releases/download/v1.4.7/qBitConnect.ipa",
-                    "size": 11037327,
-                    "minOSVersion": "12.0"
-                },
-                {
-                    "version": "1.4.6",
-                    "date": "2025-10-10",
-                    "buildVersion": "19",
-                    "localizedDescription": "Latest improvements:\n\n• Enhanced real-time monitoring and updates\n• Improved connection stability and error handling\n• Better performance and memory optimization\n• UI/UX refinements and bug fixes\n• Updated dependencies for better compatibility",
-                    "downloadURL": "https://github.com/RajnishOne/qbitconnect/releases/download/v1.4.6/qBitConnect.ipa",
-                    "size": 10923335,
-                    "minOSVersion": "12.0"
-                }
             ],
             "appPermissions": {
                 "entitlements": [],
