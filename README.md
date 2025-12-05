@@ -22,20 +22,29 @@ qBitConnect is a powerful remote client that lets you manage your qBittorrent se
 
 ## Installation
 
-Get qBitConnect by adding RajnishOne source from the list of recommended sources or via pasting the link below:
+### AltStore Classic
 
-- **AltStore PAL**: `https://raw.githubusercontent.com/RajnishOne/qbitconnect-releases/main/altstore-pal.json`
-- **AltStore Classic**: `https://raw.githubusercontent.com/RajnishOne/qbitconnect-releases/main/altstore.json`
+<a href="https://intradeus.github.io/http-protocol-redirector?r=altstore://source?url=https://raw.githubusercontent.com/RajnishOne/qbitconnect-releases/main/altstore.json">
+  <img src="https://raw.githubusercontent.com/RajnishOne/qbitconnect-releases/main/buttons/altstore.png" alt="Add to AltStore" width="200">
+</a>
 
-<a href="https://intradeus.github.io/http-protocol-redirector?r=altstore://source?url=https://raw.githubusercontent.com/RajnishOne/qbitconnect-releases/main/altstore-pal.json"><img src="https://raw.githubusercontent.com/RajnishOne/qbitconnect-releases/main/buttons/altstore-pal.png" alt="Add to AltStore PAL" height="50"></a>
+**Or manually add this source:**
 
-&nbsp;
+```
+https://raw.githubusercontent.com/RajnishOne/qbitconnect-releases/main/altstore.json
+```
 
-<a href="https://intradeus.github.io/http-protocol-redirector?r=altstore://source?url=https://raw.githubusercontent.com/RajnishOne/qbitconnect-releases/main/altstore.json"><img src="https://raw.githubusercontent.com/RajnishOne/qbitconnect-releases/main/buttons/altstore.png" alt="Add to AltStore Classic" height="50"></a>
+### AltStore PAL
 
-&nbsp;
+<a href="https://intradeus.github.io/http-protocol-redirector?r=altstore://source?url=https://raw.githubusercontent.com/RajnishOne/qbitconnect-releases/main/altstore-pal.json">
+  <img src="https://raw.githubusercontent.com/RajnishOne/qbitconnect-releases/main/buttons/altstore-pal.png" alt="Add to AltStore PAL" width="200">
+</a>
 
-<a href="https://github.com/RajnishOne/qbitconnect/releases/latest"><img src="https://raw.githubusercontent.com/RajnishOne/qbitconnect-releases/main/buttons/github.png" alt="Download from GitHub" height="50"></a>
+**Or manually add this source:**
+
+```
+https://raw.githubusercontent.com/RajnishOne/qbitconnect-releases/main/altstore-pal.json
+```
 
 ### How to Add Source to AltStore
 
