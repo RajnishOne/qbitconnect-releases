@@ -1,9 +1,9 @@
 {
-    "name": "RajnishOne",
+    "name": "BlueMatter",
     "sourceURL": "https://raw.githubusercontent.com/RajnishOne/qbitconnect-releases/main/altstore.json",
-    "subtitle": "A source for qBitConnect, a modern qBittorrent remote client.",
+    "subtitle": "BlueMatter creates high-quality apps focused on productivity, design, and user experience.",
     "description": "Welcome to my source! Here you'll find qBitConnect, a Flutter-based remote client for managing qBittorrent downloads with a modern UI and real-time updates.",
-    "iconURL": "https://raw.githubusercontent.com/RajnishOne/qbitconnect-releases/main/icons/qBitConnect/AppIcon-40%403x.png",
+    "iconURL": "https://raw.githubusercontent.com/RajnishOne/qbitconnect-releases/main//icons/general/bluematter.webp",
     "headerURL": "https://raw.githubusercontent.com/RajnishOne/qbitconnect-releases/main/icons/qBitConnect/AppIcon-40%403x.png",
     "website": "https://github.com/RajnishOne/qbitconnect",
     "fediUsername": "rajnishsharma",
