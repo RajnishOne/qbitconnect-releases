@@ -5,6 +5,7 @@
     "iconURL": "https://raw.githubusercontent.com/RajnishOne/qbitconnect/master/ios/Runner/Assets.xcassets/AppIcon.appiconset/AppIcon-40%403x.png",
     "headerURL": "https://raw.githubusercontent.com/RajnishOne/qbitconnect/master/ios/Runner/Assets.xcassets/AppIcon.appiconset/AppIcon-40%403x.png",
     "website": "https://github.com/RajnishOne/qbitconnect",
+    "fediUsername": "rajnishone@mastodon.social",
     "tintColor": "#2196F3",
     "featuredApps": [
         "com.bluematter.qbitconnect"
