@@ -2,8 +2,8 @@
     "name": "BlueMatter",
     "subtitle": "A source for qBitConnect, and other apps from RajnishOne",
     "description": "Welcome to my source! Here you'll find qBitConnect, and my other future apps.",
-    "iconURL": "https://raw.githubusercontent.com/RajnishOne/qbitconnect-releases/main//icons/general/bluematter.png",
-    "headerURL": "https://raw.githubusercontent.com/RajnishOne/qbitconnect-releases/main//icons/general/bluematter.png",
+    "iconURL": "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main//icons/general/bluematter.png",
+    "headerURL": "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main//icons/general/bluematter.png",
     "website": "https://github.com/RajnishOne/RajnishOne",
     "fediUsername": "rajnishsharma",
     "tintColor": "#2196F3",
@@ -17,18 +17,18 @@
             "developerName": "RajnishOne",
             "subtitle": "Modern qBittorrent remote client.",
             "localizedDescription": "qBitConnect is a modern, cross-platform remote client for managing your qBittorrent downloads on iOS devices.\n\nKey Features:\n\n• Add torrents via magnet links or files\n• Browse and manage torrent files\n• Real-time download progress monitoring\n• Control your torrents from anywhere\n• Multiple theme options (Light, Dark, OLED)\n• Advanced filtering and sorting\n• Batch operations for multiple torrents\n• Detailed statistics and graphs\n• Beautiful native iOS interface built with Flutter",
-            "iconURL": "https://raw.githubusercontent.com/RajnishOne/qbitconnect-releases/main/icons/qBitConnect/AppIcon-40%403x.png",
+            "iconURL": "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/icons/qBitConnect/AppIcon-40%403x.png",
             "tintColor": "#2196F3",
             "category": "utilities",
             "screenshots": [
-                "https://raw.githubusercontent.com/RajnishOne/qbitconnect-releases/main/screenshots/1.png",
-                "https://raw.githubusercontent.com/RajnishOne/qbitconnect-releases/main/screenshots/2.png",
-                "https://raw.githubusercontent.com/RajnishOne/qbitconnect-releases/main/screenshots/3.png",
-                "https://raw.githubusercontent.com/RajnishOne/qbitconnect-releases/main/screenshots/4.png",
-                "https://raw.githubusercontent.com/RajnishOne/qbitconnect-releases/main/screenshots/5.png",
-                "https://raw.githubusercontent.com/RajnishOne/qbitconnect-releases/main/screenshots/6.png",
-                "https://raw.githubusercontent.com/RajnishOne/qbitconnect-releases/main/screenshots/7.png",
-                "https://raw.githubusercontent.com/RajnishOne/qbitconnect-releases/main/screenshots/8.png"
+                "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/1.png",
+                "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/2.png",
+                "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/3.png",
+                "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/4.png",
+                "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/5.png",
+                "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/6.png",
+                "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/7.png",
+                "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/8.png"
             ],
             "versions": [
                 {
@@ -36,7 +36,7 @@
                     "date": "2025-12-04",
                     "buildVersion": "35",
                     "localizedDescription": "This release includes:\n\n• Bug fixes and improvements\n• Performance optimizations",
-                    "downloadURL": "https://github.com/RajnishOne/qbitconnect-releases/raw/main/ipas/1.6.9/qBitConnect.ipa",
+                    "downloadURL": "https://github.com/RajnishOne/altstore-releases/raw/main/ipas/1.6.9/qBitConnect.ipa",
                     "size": 27468967,
                     "minOSVersion": "12.0"
                 },

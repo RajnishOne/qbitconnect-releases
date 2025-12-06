@@ -24,26 +24,26 @@ qBitConnect is a powerful remote client that lets you manage your qBittorrent se
 
 ### AltStore Classic
 
-<a href="https://intradeus.github.io/http-protocol-redirector?r=altstore://source?url=https://raw.githubusercontent.com/RajnishOne/qbitconnect-releases/main/altstore.json">
-  <img src="https://raw.githubusercontent.com/RajnishOne/qbitconnect-releases/main/buttons/altstore.png" alt="Add to AltStore" width="200">
+<a href="https://intradeus.github.io/http-protocol-redirector?r=altstore://source?url=https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/altstore.json">
+  <img src="https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/buttons/altstore.png" alt="Add to AltStore" width="200">
 </a>
 
 **Or manually add this source:**
 
 ```
-https://raw.githubusercontent.com/RajnishOne/qbitconnect-releases/main/altstore.json
+https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/altstore.json
 ```
 
 ### AltStore PAL
 
-<a href="https://intradeus.github.io/http-protocol-redirector?r=altstore://source?url=https://raw.githubusercontent.com/RajnishOne/qbitconnect-releases/main/altstore-pal.json">
-  <img src="https://raw.githubusercontent.com/RajnishOne/qbitconnect-releases/main/buttons/altstore-pal.png" alt="Add to AltStore PAL" width="200">
+<a href="https://intradeus.github.io/http-protocol-redirector?r=altstore://source?url=https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/altstore-pal.json">
+  <img src="https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/buttons/altstore-pal.png" alt="Add to AltStore PAL" width="200">
 </a>
 
 **Or manually add this source:**
 
 ```
-https://raw.githubusercontent.com/RajnishOne/qbitconnect-releases/main/altstore-pal.json
+https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/altstore-pal.json
 ```
 
 ### How to Add Source to AltStore
