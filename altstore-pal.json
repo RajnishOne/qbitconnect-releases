@@ -20,10 +20,8 @@
       "iconURL": "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/icons/qBitConnect/AppIcon-40%403x.png",
       "tintColor": "#2196F3",
       "category": "utilities",
-      "screenshots":
-      {
-        "iphone":
-        [
+      "screenshots": {
+        "iphone": [
           "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/1.png",
           "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/2.png",
           "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/3.png",
@@ -33,8 +31,7 @@
           "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/7.png",
           "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/8.png"
         ],
-        "ipad":
-        [
+        "ipad": [
           "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/ipad/1.png",
           "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/ipad/2.png",
           "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/ipad/3.png",
