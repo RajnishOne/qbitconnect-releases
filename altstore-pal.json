@@ -100,6 +100,18 @@
       "versions": [
         {
           "downloadURL": "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/adps/1.6.9/manifest.json",
+          "assetURLs": {
+            "manifest": "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/adps/1.6.9/manifest.json",
+            "signature": "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/adps/1.6.9/signature",
+            "6daf6b4d-32a1-3adf-89fe-a418162dc246": "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/adps/1.6.9/variant/6daf6b4d-32a1-3adf-89fe-a418162dc246.ipa",
+            "983debf7-406a-3d07-932a-c3a83b0d11a7": "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/adps/1.6.9/variant/983debf7-406a-3d07-932a-c3a83b0d11a7.ipa",
+            "5901fb4a-1d69-3821-9a8b-2621611f7781": "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/adps/1.6.9/variant/5901fb4a-1d69-3821-9a8b-2621611f7781.ipa",
+            "e3491fb4-c933-3e5b-ab31-1bf01e0ee5d5": "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/adps/1.6.9/variant/e3491fb4-c933-3e5b-ab31-1bf01e0ee5d5.ipa",
+            "f9b6626b-b990-3459-97df-5226c0af9728": "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/adps/1.6.9/variant/f9b6626b-b990-3459-97df-5226c0af9728.ipa",
+            "eca15784-85c8-30b2-b15f-813d841e651e": "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/adps/1.6.9/variant/eca15784-85c8-30b2-b15f-813d841e651e.ipa",
+            "e607b85a-450f-328d-a268-d1fbdc64db79": "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/adps/1.6.9/variant/e607b85a-450f-328d-a268-d1fbdc64db79.ipa",
+            "7e13746e-73af-30ac-96ec-c7ae57ee0739": "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/adps/1.6.9/variant/7e13746e-73af-30ac-96ec-c7ae57ee0739.ipa"
+          },
           "size": 13200000,
           "version": "1.6.9",
           "buildVersion": "36",
