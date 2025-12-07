@@ -1,56 +1,64 @@
 {
-    "name": "BlueMatter",
-    "subtitle": "A source for qBitConnect, and other apps from RajnishOne",
-    "description": "Welcome to my source! Here you'll find qBitConnect, and my other future apps.",
-    "iconURL": "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main//icons/general/bluematter.png",
-    "headerURL": "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main//icons/general/bluematter.png",
-    "website": "https://github.com/RajnishOne/RajnishOne",
-    "tintColor": "#2196F3",
-    "featuredApps": [
-        "com.bluematter.qbitconnect"
-    ],
-    "apps": [
+  "name": "BlueMatter",
+  "subtitle": "A source for qBitConnect, and other apps from RajnishOne",
+  "description": "Welcome to my source! Here you'll find qBitConnect, and my other future apps.",
+  "iconURL": "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main//icons/general/bluematter.png",
+  "headerURL": "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main//icons/general/bluematter.png",
+  "website": "https://github.com/RajnishOne/RajnishOne",
+  "tintColor": "#2196F3",
+  "featuredApps": [
+    "com.bluematter.qbitconnect"
+  ],
+  "apps": [
+    {
+      "name": "qBitConnect",
+      "bundleIdentifier": "com.bluematter.qbitconnect",
+      "marketplaceID": "6756112692",
+      "developerName": "Rajnish Sharma",
+      "subtitle": "Modern qBittorrent remote client.",
+      "localizedDescription": "qBitConnect is a modern, cross-platform remote client for managing your qBittorrent downloads on iOS devices.\n\nKey Features:\n\n• Add torrents via magnet links or files\n• Browse and manage torrent files\n• Real-time download progress monitoring\n• Control your torrents from anywhere\n• Multiple theme options (Light, Dark, OLED)\n• Advanced filtering and sorting\n• Batch operations for multiple torrents\n• Detailed statistics and graphs\n• Beautiful native iOS interface built with Flutter",
+      "iconURL": "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/icons/qBitConnect/AppIcon-40%403x.png",
+      "tintColor": "#2196F3",
+      "category": "utilities",
+      "screenshots": [
+        "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/1.png",
+        "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/2.png",
+        "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/3.png",
+        "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/4.png",
+        "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/5.png",
+        "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/6.png",
+        "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/7.png",
+        "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/8.png"
+      ],
+      "ipad": [
+        "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/ipad/1.png",
+        "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/ipad/2.png",
+        "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/ipad/3.png",
+        "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/ipad/4.png",
+        "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/ipad/5.png",
+        "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/ipad/6.png"
+      ],
+      "versions": [
         {
-            "name": "qBitConnect",
-            "bundleIdentifier": "com.bluematter.qbitconnect",
-            "marketplaceID": "6756112692",
-            "developerName": "Rajnish Sharma",
-            "subtitle": "Modern qBittorrent remote client.",
-            "localizedDescription": "qBitConnect is a modern, cross-platform remote client for managing your qBittorrent downloads on iOS devices.\n\nKey Features:\n\n• Add torrents via magnet links or files\n• Browse and manage torrent files\n• Real-time download progress monitoring\n• Control your torrents from anywhere\n• Multiple theme options (Light, Dark, OLED)\n• Advanced filtering and sorting\n• Batch operations for multiple torrents\n• Detailed statistics and graphs\n• Beautiful native iOS interface built with Flutter",
-            "iconURL": "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/icons/qBitConnect/AppIcon-40%403x.png",
-            "tintColor": "#2196F3",
-            "category": "utilities",
-            "screenshots": [
-                "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/1.png",
-                "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/2.png",
-                "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/3.png",
-                "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/4.png",
-                "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/5.png",
-                "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/6.png",
-                "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/7.png",
-                "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/8.png"
-            ],
-            "versions": [
-                {
-                    "version": "1.6.9",
-                    "date": "2025-12-04",
-                    "buildVersion": "36",
-                    "localizedDescription": "Latest improvements:\\n\\n• Minor Bug fixes and improvement\\n• Graphs and stats in torrent details page",
-                    "downloadURL": "https://rajnishone.github.io/altstore-releases/adps/1.6.9",
-                    "size": 27468952,
-                    "minOSVersion": "15.0"
-                }
-            ],
-            "appPermissions": {
-                "entitlements": [],
-                "privacy": [
-                    {
-                        "name": "LocalNetwork",
-                        "usageDescription": "This app needs access to your local network to connect to qBittorrent servers on your network."
-                    }
-                ]
-            }
+          "version": "1.6.9",
+          "date": "2025-12-04",
+          "buildVersion": "36",
+          "localizedDescription": "Latest improvements:\\n\\n• Minor Bug fixes and improvement\\n• Graphs and stats in torrent details page",
+          "downloadURL": "https://rajnishone.github.io/altstore-releases/adps/1.6.9",
+          "size": 27468952,
+          "minOSVersion": "15.0"
         }
-    ],
-    "news": []
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": [
+          {
+            "name": "LocalNetwork",
+            "usageDescription": "This app needs access to your local network to connect to qBittorrent servers on your network."
+          }
+        ]
+      }
+    }
+  ],
+  "news": []
 }
