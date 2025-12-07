@@ -20,24 +20,29 @@
       "iconURL": "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/icons/qBitConnect/AppIcon-40%403x.png",
       "tintColor": "#2196F3",
       "category": "utilities",
-      "screenshots": [
-        "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/1.png",
-        "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/2.png",
-        "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/3.png",
-        "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/4.png",
-        "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/5.png",
-        "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/6.png",
-        "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/7.png",
-        "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/8.png"
-      ],
-      "ipad": [
-        "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/ipad/1.png",
-        "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/ipad/2.png",
-        "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/ipad/3.png",
-        "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/ipad/4.png",
-        "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/ipad/5.png",
-        "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/ipad/6.png"
-      ],
+      "screenshots":
+      {
+        "iphone":
+        [
+          "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/1.png",
+          "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/2.png",
+          "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/3.png",
+          "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/4.png",
+          "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/5.png",
+          "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/6.png",
+          "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/7.png",
+          "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/8.png"
+        ],
+        "ipad":
+        [
+          "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/ipad/1.png",
+          "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/ipad/2.png",
+          "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/ipad/3.png",
+          "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/ipad/4.png",
+          "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/ipad/5.png",
+          "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/ipad/6.png"
+        ]
+      },
       "versions": [
         {
           "version": "1.6.9",
