@@ -44,20 +44,11 @@
       ],
       "appPermissions": {
         "entitlements": [],
-        "privacy": [
-          {
-            "name": "LocalNetwork",
-            "usageDescription": "This app needs access to your local network to connect to qBittorrent servers on your network."
-          },
-          {
-            "name": "FaceID",
-            "usageDescription": "Use Face ID to unlock qBitConnect and protect your torrent management access."
-          },
-          {
-            "name": "PhotoLibrary",
-            "usageDescription": "qBitConnect needs access to your photo library to allow you to select torrent files and images from your device."
-          }
-        ]
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "This app needs access to your local network to connect to qBittorrent servers on your network.",
+          "NSFaceIDUsageDescription": "Use Face ID to unlock qBitConnect and protect your torrent management access.",
+          "NSPhotoLibraryUsageDescription": "qBitConnect needs access to your photo library to allow you to select torrent files and images from your device."
+        }
       }
     }
   ],
