@@ -21,16 +21,82 @@
       "iconURL": "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/icons/qBitConnect/AppIcon-40%403x.png",
       "tintColor": "#2196F3",
       "category": "utilities",
-      "screenshots": [
-        "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/1.png",
-        "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/2.png",
-        "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/3.png",
-        "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/4.png",
-        "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/5.png",
-        "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/6.png",
-        "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/7.png",
-        "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/8.png"
-      ],
+      "screenshots": {
+        "iphone": [
+          {
+            "imageURL": "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/1.png",
+            "width": 1242,
+            "height": 2688
+          },
+          {
+            "imageURL": "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/2.png",
+            "width": 1242,
+            "height": 2688
+          },
+          {
+            "imageURL": "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/3.png",
+            "width": 1242,
+            "height": 2688
+          },
+          {
+            "imageURL": "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/4.png",
+            "width": 1242,
+            "height": 2688
+          },
+          {
+            "imageURL": "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/5.png",
+            "width": 1242,
+            "height": 2688
+          },
+          {
+            "imageURL": "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/6.png",
+            "width": 1242,
+            "height": 2688
+          },
+          {
+            "imageURL": "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/7.png",
+            "width": 1242,
+            "height": 2688
+          },
+          {
+            "imageURL": "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/8.png",
+            "width": 1242,
+            "height": 2688
+          }
+        ],
+        "ipad": [
+          {
+            "imageURL": "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/ipad/1.png",
+            "width": 2048,
+            "height": 2732
+          },
+          {
+            "imageURL": "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/ipad/2.png",
+            "width": 2048,
+            "height": 2732
+          },
+          {
+            "imageURL": "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/ipad/3.png",
+            "width": 2048,
+            "height": 2732
+          },
+          {
+            "imageURL": "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/ipad/4.png",
+            "width": 2048,
+            "height": 2732
+          },
+          {
+            "imageURL": "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/ipad/5.png",
+            "width": 2048,
+            "height": 2732
+          },
+          {
+            "imageURL": "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/ipad/6.png",
+            "width": 2048,
+            "height": 2732
+          }
+        ]
+      },
       "versions": [
         {
           "downloadURL": "https://rajnishone.github.io/altstore-releases/adps/1.6.9",
