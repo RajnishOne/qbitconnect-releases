@@ -20,34 +20,24 @@
       "iconURL": "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/icons/qBitConnect/AppIcon-40%403x.png",
       "tintColor": "#2196F3",
       "category": "utilities",
-      "screenshots": {
-        "iphone": [
-          "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/1.png",
-          "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/2.png",
-          "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/3.png",
-          "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/4.png",
-          "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/5.png",
-          "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/6.png",
-          "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/7.png",
-          "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/8.png"
-        ],
-        "ipad": [
-          "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/ipad/1.png",
-          "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/ipad/2.png",
-          "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/ipad/3.png",
-          "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/ipad/4.png",
-          "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/ipad/5.png",
-          "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/ipad/6.png"
-        ]
-      },
+      "screenshots": [
+        "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/1.png",
+        "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/2.png",
+        "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/3.png",
+        "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/4.png",
+        "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/5.png",
+        "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/6.png",
+        "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/7.png",
+        "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/screenshots/8.png"
+      ],
       "versions": [
         {
-          "version": "1.6.9",
-          "date": "2025-12-04",
-          "buildVersion": "36",
-          "localizedDescription": "Latest improvements:\\n\\n• Minor Bug fixes and improvement\\n• Graphs and stats in torrent details page",
           "downloadURL": "https://rajnishone.github.io/altstore-releases/adps/1.6.9",
-          "size": 27468952,
+          "size": 13200000,
+          "version": "1.6.9",
+          "buildVersion": "36",
+          "date": "2025-12-10T14:12:00+05:30",
+          "localizedDescription": "This release includes: • Minor improvements and bug fixes",
           "minOSVersion": "15.0"
         }
       ],
