@@ -99,7 +99,7 @@
       },
       "versions": [
         {
-          "downloadURL": "https://rajnishone.github.io/altstore-releases/adps/1.6.9",
+          "downloadURL": "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/adps/1.6.9/manifest.json",
           "size": 13200000,
           "version": "1.6.9",
           "buildVersion": "36",
