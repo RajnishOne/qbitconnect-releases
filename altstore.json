@@ -38,7 +38,7 @@
                     "localizedDescription": "This release includes:\n\n• Bug fixes and improvements\n• Performance optimizations",
                     "downloadURL": "https://github.com/RajnishOne/altstore-releases/raw/main/ipas/1.6.9/qBitConnect.ipa",
                     "size": 27468967,
-                    "minOSVersion": "12.0"
+                    "minOSVersion": "15.0"
                 },
                 {
                     "version": "1.6.3",
