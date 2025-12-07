@@ -5,7 +5,6 @@
     "iconURL": "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main//icons/general/bluematter.png",
     "headerURL": "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main//icons/general/bluematter.png",
     "website": "https://github.com/RajnishOne/RajnishOne",
-    "fediUsername": "rajnishsharma",
     "tintColor": "#2196F3",
     "featuredApps": [
         "com.bluematter.qbitconnect"
@@ -15,7 +14,7 @@
             "name": "qBitConnect",
             "bundleIdentifier": "com.bluematter.qbitconnect",
             "marketplaceID": "6756112692",
-            "developerName": "RajnishOne",
+            "developerName": "Rajnish Sharma",
             "subtitle": "Modern qBittorrent remote client.",
             "localizedDescription": "qBitConnect is a modern, cross-platform remote client for managing your qBittorrent downloads on iOS devices.\n\nKey Features:\n\n• Add torrents via magnet links or files\n• Browse and manage torrent files\n• Real-time download progress monitoring\n• Control your torrents from anywhere\n• Multiple theme options (Light, Dark, OLED)\n• Advanced filtering and sorting\n• Batch operations for multiple torrents\n• Detailed statistics and graphs\n• Beautiful native iOS interface built with Flutter",
             "iconURL": "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/icons/qBitConnect/AppIcon-40%403x.png",
