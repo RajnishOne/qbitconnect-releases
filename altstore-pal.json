@@ -2,8 +2,8 @@
   "name": "BlueMatter",
   "subtitle": "A source for qBitConnect, and other apps from RajnishOne",
   "description": "Welcome to my source! Here you'll find qBitConnect, and my other future apps.",
-  "iconURL": "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main//icons/general/bluematter.png",
-  "headerURL": "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main//icons/general/bluematter.png",
+  "iconURL": "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/icons/general/bluematter.png",
+  "headerURL": "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/icons/general/bluematter.png",
   "website": "https://github.com/RajnishOne/RajnishOne",
   "tintColor": "#2196F3",
   "featuredApps": [
