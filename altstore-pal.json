@@ -39,7 +39,7 @@
                     "localizedDescription": "Latest improvements:\\n\\n• Minor Bug fixes and improvement\\n• Graphs and stats in torrent details page",
                     "downloadURL": "https://rajnishone.github.io/altstore-releases/adps/1.6.9",
                     "size": 27468952,
-                    "minOSVersion": "12.0"
+                    "minOSVersion": "15.0"
                 }
             ],
             "appPermissions": {
