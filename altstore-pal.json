@@ -103,13 +103,18 @@
           "size": 13200000,
           "version": "1.6.9",
           "buildVersion": "36",
-          "date": "2025-12-04",
+          "date": "2025-12-07",
           "localizedDescription": "This release includes: • Minor improvements and bug fixes",
           "minOSVersion": "15.0"
         }
       ],
       "appPermissions": {
-        "entitlements": [],
+        "entitlements": [
+          "application-identifier",
+          "get-task-allow",
+          "beta-reports-active",
+          "com.apple.developer.team-identifier"
+        ],
         "privacy": {
           "NSLocalNetworkUsageDescription": "This app needs access to your local network to connect to qBittorrent servers on your network.",
           "NSFaceIDUsageDescription": "Use Face ID to unlock qBitConnect and protect your torrent management access.",
