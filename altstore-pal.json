@@ -5,6 +5,7 @@
   "iconURL": "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/icons/general/bluematter.png",
   "headerURL": "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/icons/general/bluematter.png",
   "website": "https://github.com/RajnishOne/RajnishOne",
+  "sourceURL": "https://raw.githubusercontent.com/RajnishOne/altstore-releases/main/altstore-pal.json",
   "tintColor": "#2196F3",
   "featuredApps": [
     "com.bluematter.qbitconnect"
